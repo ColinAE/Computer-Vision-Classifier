@@ -6,13 +6,13 @@ This is the final project produced by my team for our Spring 2016 CS 510 Image C
 
 This project was an ambitious attempt at creating a program that could detect, classify, and track moving objects from video in real time. 
 
-In order to produce such an ambitious project such as this in the time our class was allotted, we sacrificed readability for functionality as we experimented with many different techniques. As such, do not expect to be able to understand the inner workings of this project at a glance. 
+In order to produce such an ambitious project in the time our class was allotted, we sacrificed readability for functionality as we experimented with many different techniques. As such, do not expect to be able to understand the inner workings of this project at a glance. 
 
 For information about what techniques this program uses to accomplish detection, classification, and tracking, consult the CS510_Final.docx document. For information concerning how to run the program, consult the READMEoriginal.txt document.
 
 ## Development Status
 
-Development of this project has ceased. However, I will periodically improve the documentation of the project for the sake of others.
+Development of this project has ceased, and the code has been uploaded mostly unchanged from the time our computer vision class ended. However, I will periodically improve the documentation of the project for the sake of others who want to learn about opencv python and computer vision. If you want to run the code and find the current documentation insufficient, message me and I'll see if I can't help you out.
 
 ## License
 
