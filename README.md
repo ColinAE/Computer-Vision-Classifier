@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is the final project produced by my team for our Spring 2016 CS 510 Image Computation (AKA computer vision) class. 
+This is the final project produced by my team for a graduate level computer vision course. 
 
 ## Purpose
 
